@@ -1,0 +1,5 @@
+---
+- name: Printing something
+  debug: 
+    msg: This is a test
+# tasks file for my_role_march16
